@@ -1,1 +1,0 @@
-caches.console.log(a);
